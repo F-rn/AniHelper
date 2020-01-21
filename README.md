@@ -14,7 +14,7 @@ It currently only has these features:
 
 ## Installation
 
-AniHelper made with CRA (create-react-app) and only some additionals node modules, just run:
+AniHelper made with CRA (create-react-app) and electron (desktop only) and only some additionals node modules, just run:
 
 ```
 npm install
